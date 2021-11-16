@@ -1,6 +1,6 @@
 # id -nu
 
-* M.Sc in mislukkingtechnologie / M.Sc in Failure Technology
+* M.Sc. in mislukkingtechnologie / M.Sc. in Failure Technology
 * Arch Linux and Debian user
 * GamingOnLinux
 
