@@ -1,4 +1,8 @@
-### Hi there 👋
+### id -nu
+
+* M.Sc in mislukkingtechnologie / M.Sc in Failure Technology
+* Arch Linux and Debian user
+* GamingOnLinux
 
 <!--
 **konnpaku-youmu/konnpaku-youmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
