@@ -6,7 +6,7 @@
 * Learning 🇳🇱 & 🇫🇷 now
 * GamingOnLinux
 
-[![Youmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=konnpaku-youmu&show_icons=true&theme=dracula)]
+![Youmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=konnpaku-youmu&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konnpaku-youmu)]
 
