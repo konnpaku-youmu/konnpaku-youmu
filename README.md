@@ -6,9 +6,9 @@
 * Learning 🇳🇱 & 🇫🇷 now
 * GamingOnLinux
 
-[![Youmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=konnpaku-youmu)](https://github.com/anuraghazra/github-readme-stats)
+[![Youmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=konnpaku-youmu&show_icons=true&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konnpaku-youmu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konnpaku-youmu)]
 
 <!--
 **konnpaku-youmu/konnpaku-youmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
