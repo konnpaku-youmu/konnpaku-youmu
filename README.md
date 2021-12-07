@@ -6,7 +6,7 @@
 * Learning 🇳🇱 & 🇫🇷 now
 * GamingOnLinux
 
-## Frequently Used Language
+### Frequently Used Language
 * C/C++
 * Python
 * Verilog
