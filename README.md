@@ -1,7 +1,7 @@
 # id -nu
 
 * M.Sc. in mislukkingtechnologie / M.Sc. in Failure Technology
-* Linux-gebruiker: Archlinux & Debian / Archlinux & Debian user
+* Linux-gebruiker: Archlinux & NixOS / Archlinux & NixOS user
 * Currently working on DSP, SoC development & Numerical Optimization
 * Learning 🇳🇱 & 🇫🇷 now
 * GamingOnLinux
