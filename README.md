@@ -2,7 +2,7 @@
 
 * M.Sc. in mislukkingtechnologie / M.Sc. in Failure Technology
 * Linux-gebruiker: Archlinux & NixOS / Archlinux & NixOS user
-* Currently working on DSP, SoC development & Numerical Optimization
+* Learning DSP, Control Theory, RISC-V & other EE stuff
 * Learning 🇳🇱 & 🇫🇷 now
 * GamingOnLinux
 
