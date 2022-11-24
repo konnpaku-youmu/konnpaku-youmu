@@ -3,8 +3,9 @@
 * M.Sc. in mislukkingtechnologie / M.Sc. in Failure Technology
 * Linux-gebruiker: Archlinux & NixOS / Archlinux & NixOS user
 * Learning DSP, Control Theory, RISC-V & other EE stuff
-* Learning 🇳🇱 & 🇫🇷 now
+* Learning 🇫🇷 now
 * GamingOnLinux
+* Currently working on Model Predictive Control & Data-driven Predictive Control
 
 ### Frequently Used Language
 * C/C++
