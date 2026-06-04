@@ -2,9 +2,9 @@
 
 * Archlinux & NixOS user
 * Learning DSP, Control Theory, RISC-V, etc.
-* Learning 🇫🇷 now
+* Learning 🇫🇷 and 🇳🇱 now
 * GamingOnLinux
-* Currently working on Model Predictive Control & Data-driven Predictive Control
+* Electronic art, digital humanity & predictive control
 
 ### Frequently Used Language
 * Python
