@@ -2,7 +2,7 @@
 
 * Archlinux & NixOS user
 * Learning DSP, Control Theory, RISC-V, etc.
-* Learning 🇫🇷 and 🇳🇱 now
+* Installing 🇫🇷 and 🇳🇱 compiler now
 * GamingOnLinux
 * Electronic art, digital humanity & predictive control
 
