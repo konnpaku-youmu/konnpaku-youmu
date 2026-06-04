@@ -12,3 +12,5 @@
 * Verilog
 * Matlab
 * Rust
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konnpaku-youmu&layout=compact&theme=radical)
