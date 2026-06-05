@@ -1,4 +1,4 @@
-# id -nu
+# id -nu 🏳️‍⚧️
 
 * Archlinux & NixOS user
 * Learning DSP, Control Theory, RISC-V, etc.
