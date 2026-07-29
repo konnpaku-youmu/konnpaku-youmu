@@ -1,5 +1,6 @@
-# id -nu 🏳️‍⚧️
+# id -nu
 
+* They/Them
 * Archlinux & NixOS user
 * Learning DSP, Control Theory, RISC-V, etc.
 * Installing 🇫🇷 and 🇳🇱 compiler now
